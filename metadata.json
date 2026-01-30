@@ -1,0 +1,7 @@
+{
+  "name": "PharmaStock Intelligence",
+  "description": "A comprehensive pharmacy inventory and stock intelligence system featuring product management, batch tracking, expiry monitoring, and movement analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
